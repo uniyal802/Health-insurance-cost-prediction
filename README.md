@@ -8,7 +8,6 @@ To develop and evaluate a machine learning regression model using real-world dat
 Source: Kaggle - Medical Cost Personal Dataset
 
 # Features:
-
 age, sex, bmi, children, smoker, region
 
 Target: charges
@@ -49,13 +48,6 @@ Metrics: R² Score, MAE, RMSE
 
 Visualized prediction performance
 
-#  Results
-Best model: Random Forest Regressor
-
-R² Score: 0.85+
-
-Feature importance showed smoking and BMI had the most influence on cost
-
 # Key Learnings
 Data preprocessing and feature encoding are crucial for model performance
 
@@ -70,3 +62,13 @@ Deploy model using Flask / Streamlit for interactive web app
 
 Integrate with cloud-based data pipelines
 
+#  Results
+Best model: Random Forest Regressor
+
+R² Score: 0.85+
+
+Feature importance showed smoking and BMI had the most influence on cost
+
+<img width="570" alt="Screenshot 2025-06-28 at 4 31 53 PM" src="https://github.com/user-attachments/assets/4ac977b2-9bd7-4bf5-a406-6990ccffb847" />
+<img width="621" alt="Screenshot 2025-06-28 at 4 31 31 PM" src="https://github.com/user-attachments/assets/20e5b65f-3ca8-45b6-91b5-aeaa3e503bea" />
+<img width="953" alt="Screenshot 2025-06-28 at 4 32 25 PM" src="https://github.com/user-attachments/assets/328f8567-80c9-4541-a350-54ceece59096" />
