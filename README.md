@@ -7,7 +7,7 @@ To develop and evaluate a machine learning regression model using real-world dat
 # Dataset
 Source: Kaggle - Medical Cost Personal Dataset
 
-# Features:
+# Features
 age, sex, bmi, children, smoker, region
 
 Target: charges
